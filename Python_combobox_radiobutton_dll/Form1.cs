@@ -23,11 +23,11 @@ namespace Python_combobox_radiobutton_dll
             comboBox1.Items.Add(new MyItem("第四號", "4"));
             comboBox1.Items.Add(new MyItem("第五號", "5"));
 
-            comboBox2.Items.Add(new MyItem("第一號", "1"));
-            comboBox2.Items.Add(new MyItem("第二號", "2"));
-            comboBox2.Items.Add(new MyItem("第三號", "3"));
-            comboBox2.Items.Add(new MyItem("第四號", "4"));
-            comboBox2.Items.Add(new MyItem("第五號", "5"));
+            comboBox2.Items.Add(new MyItem("第一號", "6"));
+            comboBox2.Items.Add(new MyItem("第二號", "7"));
+            comboBox2.Items.Add(new MyItem("第三號", "8"));
+            comboBox2.Items.Add(new MyItem("第四號", "9"));
+            comboBox2.Items.Add(new MyItem("第五號", "10"));
         }
        struct MyItem
         {
